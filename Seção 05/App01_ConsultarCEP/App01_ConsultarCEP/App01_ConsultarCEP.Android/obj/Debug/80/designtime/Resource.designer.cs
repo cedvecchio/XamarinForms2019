@@ -2895,7 +2895,7 @@ namespace App01_ConsultarCEP.Droid
 			public const int ic_vol_type_tv_light = 2131296516;
 			
 			// aapt resource value: 0x7F010002
-			public const int logo-correios-512 = 2130771970;
+			public const int logo = 2130771970;
 			
 			// aapt resource value: 0x7F090105
 			public const int mr_button_connected_dark = 2131296517;

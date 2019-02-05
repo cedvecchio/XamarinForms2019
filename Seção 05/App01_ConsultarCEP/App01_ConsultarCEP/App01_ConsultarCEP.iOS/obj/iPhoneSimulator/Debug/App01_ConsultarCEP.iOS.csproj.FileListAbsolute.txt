@@ -45,11 +45,13 @@ F:\GitHub\XamarinForms2019\Seção 05\App01_ConsultarCEP\App01_ConsultarCEP\App0
 F:\GitHub\XamarinForms2019\Seção 05\App01_ConsultarCEP\App01_ConsultarCEP\App01_ConsultarCEP.iOS\bin\iPhoneSimulator\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
 F:\GitHub\XamarinForms2019\Seção 05\App01_ConsultarCEP\App01_ConsultarCEP\App01_ConsultarCEP.iOS\bin\iPhoneSimulator\Debug\App01_ConsultarCEP.dll
 F:\GitHub\XamarinForms2019\Seção 05\App01_ConsultarCEP\App01_ConsultarCEP\App01_ConsultarCEP.iOS\bin\iPhoneSimulator\Debug\App01_ConsultarCEP.pdb
+F:\GitHub\XamarinForms2019\Seção 05\App01_ConsultarCEP\App01_ConsultarCEP\App01_ConsultarCEP.iOS\bin\iPhoneSimulator\Debug\App01_ConsultarCEP.dll.mdb
 F:\GitHub\XamarinForms2019\Seção 05\App01_ConsultarCEP\App01_ConsultarCEP\App01_ConsultarCEP.iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
 F:\GitHub\XamarinForms2019\Seção 05\App01_ConsultarCEP\App01_ConsultarCEP\App01_ConsultarCEP.iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
 F:\GitHub\XamarinForms2019\Seção 05\App01_ConsultarCEP\App01_ConsultarCEP\App01_ConsultarCEP.iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
 F:\GitHub\XamarinForms2019\Seção 05\App01_ConsultarCEP\App01_ConsultarCEP\App01_ConsultarCEP.iOS\obj\iPhoneSimulator\Debug\coremlc\_PartialAppManifest.items
 F:\GitHub\XamarinForms2019\Seção 05\App01_ConsultarCEP\App01_ConsultarCEP\App01_ConsultarCEP.iOS\obj\iPhoneSimulator\Debug\coremlc\_BundleResourceWithLogicalName.items
+F:\GitHub\XamarinForms2019\Seção 05\App01_ConsultarCEP\App01_ConsultarCEP\App01_ConsultarCEP.iOS\obj\iPhoneSimulator\Debug\optimized\logo.png
 F:\GitHub\XamarinForms2019\Seção 05\App01_ConsultarCEP\App01_ConsultarCEP\App01_ConsultarCEP.iOS\obj\iPhoneSimulator\Debug\optimized\
 F:\GitHub\XamarinForms2019\Seção 05\App01_ConsultarCEP\App01_ConsultarCEP\App01_ConsultarCEP.iOS\obj\iPhoneSimulator\Debug\App01_ConsultarCEP.iOS.csprojAssemblyReference.cache
 F:\GitHub\XamarinForms2019\Seção 05\App01_ConsultarCEP\App01_ConsultarCEP\App01_ConsultarCEP.iOS\obj\iPhoneSimulator\Debug\App01_ConsultarCEP.iOS.csproj.CoreCompileInputs.cache
@@ -57,4 +59,3 @@ F:\GitHub\XamarinForms2019\Seção 05\App01_ConsultarCEP\App01_ConsultarCEP\App0
 F:\GitHub\XamarinForms2019\Seção 05\App01_ConsultarCEP\App01_ConsultarCEP\App01_ConsultarCEP.iOS\obj\iPhoneSimulator\Debug\App01_ConsultarCEP.iOS.csproj.CopyComplete
 F:\GitHub\XamarinForms2019\Seção 05\App01_ConsultarCEP\App01_ConsultarCEP\App01_ConsultarCEP.iOS\obj\iPhoneSimulator\Debug\App01_ConsultarCEP.iOS.exe
 F:\GitHub\XamarinForms2019\Seção 05\App01_ConsultarCEP\App01_ConsultarCEP\App01_ConsultarCEP.iOS\obj\iPhoneSimulator\Debug\App01_ConsultarCEP.iOS.pdb
-F:\GitHub\XamarinForms2019\Seção 05\App01_ConsultarCEP\App01_ConsultarCEP\App01_ConsultarCEP.iOS\bin\iPhoneSimulator\Debug\App01_ConsultarCEP.dll.mdb
