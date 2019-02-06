@@ -1,0 +1,17 @@
+F:\GitHub\XamarinForms2019\Seção 07\App01_LayoutXF\App01_LayoutXF\App01_LayoutXF\bin\Debug\netstandard2.0\App01_LayoutXF.deps.json
+F:\GitHub\XamarinForms2019\Seção 07\App01_LayoutXF\App01_LayoutXF\App01_LayoutXF\bin\Debug\netstandard2.0\App01_LayoutXF.dll
+F:\GitHub\XamarinForms2019\Seção 07\App01_LayoutXF\App01_LayoutXF\App01_LayoutXF\bin\Debug\netstandard2.0\App01_LayoutXF.pdb
+F:\GitHub\XamarinForms2019\Seção 07\App01_LayoutXF\App01_LayoutXF\App01_LayoutXF\obj\Debug\netstandard2.0\App01_LayoutXF.csprojAssemblyReference.cache
+F:\GitHub\XamarinForms2019\Seção 07\App01_LayoutXF\App01_LayoutXF\App01_LayoutXF\obj\Debug\netstandard2.0\App.xaml.g.cs
+F:\GitHub\XamarinForms2019\Seção 07\App01_LayoutXF\App01_LayoutXF\App01_LayoutXF\obj\Debug\netstandard2.0\Layouts\Absolute\AbsolutePage.xaml.g.cs
+F:\GitHub\XamarinForms2019\Seção 07\App01_LayoutXF\App01_LayoutXF\App01_LayoutXF\obj\Debug\netstandard2.0\Layouts\Grid\GridPage.xaml.g.cs
+F:\GitHub\XamarinForms2019\Seção 07\App01_LayoutXF\App01_LayoutXF\App01_LayoutXF\obj\Debug\netstandard2.0\Layouts\Relative\RelativePage.xaml.g.cs
+F:\GitHub\XamarinForms2019\Seção 07\App01_LayoutXF\App01_LayoutXF\App01_LayoutXF\obj\Debug\netstandard2.0\Layouts\Scroll\ScrollPage.xaml.g.cs
+F:\GitHub\XamarinForms2019\Seção 07\App01_LayoutXF\App01_LayoutXF\App01_LayoutXF\obj\Debug\netstandard2.0\Layouts\Stack\StackPage.xaml.g.cs
+F:\GitHub\XamarinForms2019\Seção 07\App01_LayoutXF\App01_LayoutXF\App01_LayoutXF\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+F:\GitHub\XamarinForms2019\Seção 07\App01_LayoutXF\App01_LayoutXF\App01_LayoutXF\obj\Debug\netstandard2.0\App01_LayoutXF.csproj.CoreCompileInputs.cache
+F:\GitHub\XamarinForms2019\Seção 07\App01_LayoutXF\App01_LayoutXF\App01_LayoutXF\obj\Debug\netstandard2.0\App01_LayoutXF.AssemblyInfoInputs.cache
+F:\GitHub\XamarinForms2019\Seção 07\App01_LayoutXF\App01_LayoutXF\App01_LayoutXF\obj\Debug\netstandard2.0\App01_LayoutXF.AssemblyInfo.cs
+F:\GitHub\XamarinForms2019\Seção 07\App01_LayoutXF\App01_LayoutXF\App01_LayoutXF\obj\Debug\netstandard2.0\XamlC.stamp
+F:\GitHub\XamarinForms2019\Seção 07\App01_LayoutXF\App01_LayoutXF\App01_LayoutXF\obj\Debug\netstandard2.0\App01_LayoutXF.dll
+F:\GitHub\XamarinForms2019\Seção 07\App01_LayoutXF\App01_LayoutXF\App01_LayoutXF\obj\Debug\netstandard2.0\App01_LayoutXF.pdb
